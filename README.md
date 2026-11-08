@@ -5,7 +5,7 @@ An interactive sales dashboard built with **Microsoft Excel** as part of the **E
 ## 📸 Preview
 
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpg)
 
 
 
