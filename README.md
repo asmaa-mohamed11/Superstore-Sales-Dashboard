@@ -5,7 +5,7 @@ An interactive sales dashboard built with **Microsoft Excel** as part of the **E
 ## 📸 Preview
 
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Superstore Sales Dashboard.png)
 
 
 
